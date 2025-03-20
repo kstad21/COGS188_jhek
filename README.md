@@ -6,4 +6,4 @@ We implement several different reinforcement learning algorithms such as TD(0), 
 
 We used the Tetris Arcade Learning Environment (ALE) for our preliminary models: [Tetris ALE]([https://example.com](https://gymnasium.farama.org/environments/atari/tetris/ )) and a [more custom Tetris environment](https://github.com/nuno-faria/tetris-ai) for our final models. 
 
-Thank you!
+Check out the pdf in this Repository for our full report, as well as our code to see how we approached these problems! Code/notebooks will be labeled with the topics they are investigating. 
