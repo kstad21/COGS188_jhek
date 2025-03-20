@@ -30,6 +30,7 @@ wandb_entity = None
 capture_video = False
 
 # values and loss calculation optimizations taken from https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
+# in general, a lot of the finer details of PPO are adapted from there
 num_envs = 8
 num_steps = 128
 gamma = 0.995
